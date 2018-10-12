@@ -12,6 +12,7 @@
 
 #include <iostream>
 #include <string>
+#include <algorithm>
 
 template<typename T = int>
 
